@@ -1,0 +1,14 @@
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\obj\Debug\net8.0\UnitTestsPracticalWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\obj\Debug\net8.0\UnitTestsPracticalWork.AssemblyInfoInputs.cache
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\obj\Debug\net8.0\UnitTestsPracticalWork.AssemblyInfo.cs
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\obj\Debug\net8.0\UnitTestsPracticalWork.csproj.CoreCompileInputs.cache
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\bin\Debug\net8.0\UnitTestsPracticalWork.exe
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\bin\Debug\net8.0\UnitTestsPracticalWork.deps.json
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\bin\Debug\net8.0\UnitTestsPracticalWork.runtimeconfig.json
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\bin\Debug\net8.0\UnitTestsPracticalWork.dll
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\bin\Debug\net8.0\UnitTestsPracticalWork.pdb
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\obj\Debug\net8.0\UnitTestsPracticalWork.dll
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\obj\Debug\net8.0\refint\UnitTestsPracticalWork.dll
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\obj\Debug\net8.0\UnitTestsPracticalWork.pdb
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\obj\Debug\net8.0\UnitTestsPracticalWork.genruntimeconfig.cache
+D:\Projects\UnitTestsPracticalWork\UnitTestsPracticalWork\obj\Debug\net8.0\ref\UnitTestsPracticalWork.dll

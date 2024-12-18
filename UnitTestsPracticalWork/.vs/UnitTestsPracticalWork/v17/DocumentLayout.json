@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\UnitTestsPracticalWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48B3F43D-E19B-44B9-8E74-09CAABB84613}|UnitTestsPracticalWork\\UnitTestsPracticalWork.csproj|d:\\projects\\unittestspracticalwork\\unittestspracticalwork\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B3F43D-E19B-44B9-8E74-09CAABB84613}|UnitTestsPracticalWork\\UnitTestsPracticalWork.csproj|solutionrelative:unittestspracticalwork\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C3ABFE-710E-47AD-B746-04AEF15C0B0F}|Tests\\Tests.csproj|d:\\projects\\unittestspracticalwork\\tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C3ABFE-710E-47AD-B746-04AEF15C0B0F}|Tests\\Tests.csproj|solutionrelative:tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48B3F43D-E19B-44B9-8E74-09CAABB84613}|UnitTestsPracticalWork\\UnitTestsPracticalWork.csproj|d:\\projects\\unittestspracticalwork\\unittestspracticalwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48B3F43D-E19B-44B9-8E74-09CAABB84613}|UnitTestsPracticalWork\\UnitTestsPracticalWork.csproj|solutionrelative:unittestspracticalwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Projects\\UnitTestsPracticalWork\\Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Projects\\UnitTestsPracticalWork\\Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Tests\\UnitTest1.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:40:38.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Projects\\UnitTestsPracticalWork\\UnitTestsPracticalWork\\Calculator.cs",
+              "RelativeDocumentMoniker": "UnitTestsPracticalWork\\Calculator.cs",
+              "ToolTip": "D:\\Projects\\UnitTestsPracticalWork\\UnitTestsPracticalWork\\Calculator.cs",
+              "RelativeToolTip": "UnitTestsPracticalWork\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:39:09.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\UnitTestsPracticalWork\\UnitTestsPracticalWork\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestsPracticalWork\\Program.cs",
+              "ToolTip": "D:\\Projects\\UnitTestsPracticalWork\\UnitTestsPracticalWork\\Program.cs",
+              "RelativeToolTip": "UnitTestsPracticalWork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:38:36.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
